@@ -27,4 +27,4 @@ class pdf {
         {
           // check the number of parameters here: http://mpdf1.com/manual/index.php?tid=184
           $params = array("en-GB-x", "A4", "", "", 10, 10, 10, 10, 6, 3, NULL);         
-        }
+        } Test
