@@ -1,12 +1,6 @@
 # saikira
 For testing Github to Confluence
-
-/**
- * See: https://davidsimpson.me/2013/05/19/using-mpdf-with-codeigniter/
- * and: https://twitter.com/freddysidauruk/status/586366799861563392
- */
- 
- 
+  
 // In `/application/library/pdf.php`:
 
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
