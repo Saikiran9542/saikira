@@ -28,5 +28,6 @@ Testimgn.,kjnmkmklsnc kjebv
 
     function load($params=NULL)
     {
-        include_once APPPATH.'/third_party/mpdf/mpdf.php';
+       
+SAIKIRAN-1
          
